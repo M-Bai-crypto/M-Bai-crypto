@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-Bai-crypto
+- 👋 Hi, I’m @Garmin
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 - 📫 How to reach me https://github.com/M-Bai-crypto
